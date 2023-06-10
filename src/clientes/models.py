@@ -6,6 +6,7 @@ class Cliente(models.Model):
          ("SP","Sao Paulo"),
          ("MG","Minas Gerais"),
          ("GO","Goiás"),
+         ("TO", "Tocantins"),
 
     ]
 
